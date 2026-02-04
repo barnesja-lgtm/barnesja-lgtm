@@ -1,16 +1,20 @@
-## Hi there 👋
+## **Welcome**
+**Name**: Jacob Branes
 
-<!--
-**barnesja-lgtm/barnesja-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pronouns**: he/him or they/them
 
-Here are some ideas to get you started:
+**Expirence**: no prior employment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ocupation**: student
+
+## Hobbys
+  - Writting
+  - Gaming
+  - Reading
+
+## **my dreams and aspirations** 
+  1.**become a productdesigner**
+
+  2.write a videogame/ or book
+
+  3.make a videogame
