@@ -11,7 +11,9 @@
   - Writting
   - Gaming
   - Reading
-
+  -**I love yoshi!**
+![yoshi_from_"yoshis_island](yoshisIland.jpg)
+    
 ## **my dreams and aspirations** 
   1.**become a productdesigner**
 
