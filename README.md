@@ -9,11 +9,16 @@
 
 ## Hobbys
   - Writting
+ 
   - Gaming
+  
   - Reading
-  -**I love yoshi!**
-![yoshi_from_"yoshis_island](yoshisIland.jpg)
+  
+  - **I love yoshi!**
+
     
+  <img src="yoshi'sIsland.jpg" width="150px" alt="Yosji_from_yohi's_island">
+
 ## **my dreams and aspirations** 
   1.**become a productdesigner**
 
